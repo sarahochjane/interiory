@@ -1,9 +1,9 @@
 <?php
 
 define('DB_SERVER', 'localhost');
-define('DB_LOGIN', 'root');
-define('DB_PASSWORD', 'kungsgatan40');
-define('DB', 'interiory');
+define('DB_LOGIN', 'sawe0044');
+define('DB_PASSWORD', 'sawe004471577-my');
+define('DB', 'sawe0044');
 
 //mysql_connect(DB_SERVER, DB_LOGIN, DB_PASSWORD) or die (mysql_errno());
 //mysql_select_db(DB);
